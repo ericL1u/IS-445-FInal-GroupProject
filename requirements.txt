@@ -10,3 +10,5 @@ datetime
 matplotlib
 ipywidgets
 seaborn
+plotly.graph_objects
+plotly.express
