@@ -10,5 +10,4 @@ datetime
 matplotlib
 ipywidgets
 seaborn
-plotly.graph_objects
-plotly.express
+plotly==5.4.0
