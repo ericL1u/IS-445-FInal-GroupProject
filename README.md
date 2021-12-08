@@ -9,4 +9,4 @@
 
 3. Deploy it on the heroku referlink:https://pythonforundergradengineers.com/deploy-jupyter-notebook-voila-heroku.html
 
-4. Demo of this project https://dashboard.heroku.com/apps/limitless-journey-95553/settings
+4. Demo of this project  https://limitless-journey-95553.herokuapp.com/
